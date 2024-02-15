@@ -48,3 +48,22 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+/* Existing CSS styles remain the same */
+
+.feature {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.feature img {
+    max-width: 100%;
+}
+
+.feature h3 {
+    margin-top: 10px;
+}
+
+.feature p {
+    color: #777;
+}
