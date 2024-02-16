@@ -67,3 +67,25 @@ footer {
 .feature p {
     color: #777;
 }
+
+/* styles.css */
+
+/* Video section styles */
+#video {
+    text-align: center;
+    margin-top: 50px; /* Adjust the top margin as needed */
+}
+
+#video h2 {
+    margin-bottom: 20px;
+}
+
+video {
+    width: 80%; /* Adjust the width of the video container */
+    max-width: 800px; /* Adjust the maximum width of the video as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Add any additional styles for the video section here */
