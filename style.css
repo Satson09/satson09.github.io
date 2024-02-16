@@ -81,7 +81,7 @@ footer {
 }
 
 video {
-    width: 80%; /* Adjust the width of the video container */
+    width: 200%; /* Adjust the width of the video container */
     max-width: 800px; /* Adjust the maximum width of the video as needed */
     height: auto;
     display: block;
