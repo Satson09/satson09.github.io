@@ -6,7 +6,7 @@ h1, h2 {
 
 img {
     width: 100%;
-    max-width: 800px; /* Adjust the maximum width of the cover image as needed */
+    max-width: 900px; /* Adjust the maximum width of the cover image as needed */
     height: auto;
     display: block;
     margin: 0 auto;
